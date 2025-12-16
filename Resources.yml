@@ -1,0 +1,17 @@
+app_Url: https://ux-stage.wbir.com/
+default_TimeOut: 240
+browserVersion: latest
+testObservability: true
+ostype: "Windows"
+osVersion: 11
+projectName: Ux_AutomatedTests
+MobileDeviceName : Google Pixel 8
+MobileOsVersion : 14.0
+bStackIdleTimeOut : 300
+bStacklocalIdentifier : singleTunnel
+10DayForecastUrl : https://ux-stage.wbir.com/10-day
+TrafficUrl : https://ux-stage.wbir.com/traffic
+WeatherUrl : https://ux-stage.wbir.com/weather
+WatchUrl : https://ux-stage.wbir.com/watch
+NearMeUrl : https://ux-stage.wbir.com/near-me
+NewsUrl : https://ux-stage.wbir.com/news
